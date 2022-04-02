@@ -1,0 +1,15 @@
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\Klassi Hoone loomine.exe
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\Klassi Hoone loomine.deps.json
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\Klassi Hoone loomine.runtimeconfig.json
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\Klassi Hoone loomine.dll
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\ref\Klassi Hoone loomine.dll
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\bin\Debug\net6.0\Klassi Hoone loomine.pdb
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.csproj.AssemblyReference.cache
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.AssemblyInfoInputs.cache
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.AssemblyInfo.cs
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.csproj.CoreCompileInputs.cache
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.dll
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\ref\Klassi Hoone loomine.dll
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.pdb
+C:\Users\37253\Desktop\Hoone\Klassi Hoone loomine\obj\Debug\net6.0\Klassi Hoone loomine.genruntimeconfig.cache

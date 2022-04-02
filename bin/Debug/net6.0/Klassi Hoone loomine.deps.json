@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Klassi Hoone loomine/1.0.0": {
+        "runtime": {
+          "Klassi Hoone loomine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Klassi Hoone loomine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
